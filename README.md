@@ -1,5 +1,9 @@
 # AI Leadership & Project Management Masterclass
 
+<!-- BADGES:START -->
+[![exec-ed](https://img.shields.io/badge/-exec--ed-673ab7?style=flat-square)](https://github.com/topics/exec-ed) [![presentation](https://img.shields.io/badge/-presentation-9c27b0?style=flat-square)](https://github.com/topics/presentation) [![artificial-intelligence](https://img.shields.io/badge/-artificial--intelligence-blue?style=flat-square)](https://github.com/topics/artificial-intelligence) [![edtech](https://img.shields.io/badge/-edtech-4caf50?style=flat-square)](https://github.com/topics/edtech) [![html](https://img.shields.io/badge/-html-e34f26?style=flat-square)](https://github.com/topics/html) [![leadership](https://img.shields.io/badge/-leadership-blue?style=flat-square)](https://github.com/topics/leadership) [![project-management](https://img.shields.io/badge/-project--management-blue?style=flat-square)](https://github.com/topics/project-management) [![teaching-materials](https://img.shields.io/badge/-teaching--materials-blue?style=flat-square)](https://github.com/topics/teaching-materials) [![website](https://img.shields.io/badge/-website-2196f3?style=flat-square)](https://github.com/topics/website) [![workshop](https://img.shields.io/badge/-workshop-blue?style=flat-square)](https://github.com/topics/workshop)
+<!-- BADGES:END -->
+
 Comprehensive masterclass materials for teaching AI project leadership and decision-making frameworks.
 
 ## Quick Start
